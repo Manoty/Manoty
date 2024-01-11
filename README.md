@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Manoty
 - 👀 I’m interested in backend web development...
-- 🌱 I’m currently learning python django
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning REACT.js
+- 💞️ I’m looking to collaborate on Full stack development projects
 - 📫 Email -kingpintinoh@gmail.com
 @kevinnoty21@gmail.com
 <!---
