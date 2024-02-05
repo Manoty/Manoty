@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Manoty
 - 
-- 👀 I’m interested in backend web development...
+- 👀 I’m interested in Fullstack Software development...
 - 
 - 🌱 I’m currently learning REACT.js
 - 
