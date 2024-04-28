@@ -4,7 +4,7 @@
 - 
 - 🌱 I’m currently learning REACT.js | Dart with Flutter | IBM Cloud
 - 
-- 💞️ I’m looking to collaborate on Full stack development projects
+- 💞️ I’m looking to collaborate on Sustainable development projects
 - 
 - 📫 Email -kingpintinoh@gmail.com
 @kevinnoty21@gmail.com
