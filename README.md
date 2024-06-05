@@ -2,7 +2,7 @@
 - 
 - 👀 I’m interested in Fullstack Software development...
 - 
-- 🌱 I’m currently learning REACT.js | Dart with Flutter | IBM Cloud
+- 🌱 I’m currently learning REACT.js | Dart with Flutter | Databases |Django
 - 
 - 💞️ I’m looking to collaborate on Sustainable development projects
 - 
