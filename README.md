@@ -1,103 +1,95 @@
-# 👋 Hi, I’m Kevin (Manoty)
+# 👋 Hey, I’m Kevin (Manoty)
 
-Fullstack Software Engineer + Analytics Engineer  
-I build scalable applications and end-to-end data systems that turn raw data into real business value.
-
----
-
-## 🚀 What I Do
-
-- Design and build **fullstack web applications** (frontend → backend → database)
-- Develop **end-to-end data pipelines** (ingestion → transformation → analytics)
-- Model data using **dbt + SQL** for clean, reliable metrics
-- Build **analytics dashboards** and internal tools for decision-making
-- Work across **product, data, and infrastructure** — not just one layer
+🚀 Fullstack Software Engineer | 📊 Analytics Engineer
+I build systems end-to-end — from user-facing apps to data pipelines that drive real decisions.
 
 ---
 
-## 🧠 Engineering Focus
+## ⚡ What I Actually Do
 
-- Clean, maintainable systems (not overengineered)
-- Performance and scalability from day one
-- Data correctness > vanity metrics
-- Real-world usability over theoretical perfection
+I don’t just write code — I build **complete systems**:
 
----
-
-## 🛠️ Tech Stack
-
-### 💻 Fullstack Development
-- Frontend: React, JavaScript, HTML, CSS
-- Backend: Python (Django), Node.js, Golang
-- APIs: REST APIs, authentication systems, integrations
-
-### 🗄️ Data & Analytics Engineering
-- SQL (advanced querying, optimization)
-- dbt (data modeling, transformations)
-- DuckDB (analytics workflows)
-- PostgreSQL (production databases)
-
-### 📊 Data Visualization
-- Power BI
-- Tableau
-- Streamlit (data apps & dashboards)
-
-### ⚙️ Tools & Workflow
-- Git & GitHub
-- VS Code
-- Linux / Shell scripting
-- CI/CD basics
-- API testing & QA
+* ⚙️ Design & ship fullstack apps (frontend → backend → database)
+* 🔄 Build data pipelines (raw data → clean models → dashboards)
+* 📊 Turn messy data into **clear, usable insights**
+* 🧠 Bridge product, engineering, and data — not just one layer
 
 ---
 
-## 📦 What I Build
+## 🧰 Tech I Work With
 
-- Fullstack platforms (dashboards, marketplaces, internal tools)
-- Payment-integrated systems (APIs, transaction flows)
-- Event/ticketing systems
-- Data pipelines (ELT workflows with dbt + DuckDB/Postgres)
-- Analytics dashboards for business insights
+**Frontend**
+
+* React, JavaScript, HTML, CSS
+
+**Backend**
+
+* Python (Django), Node.js, Golang
+* REST APIs, authentication, integrations
+
+**Data Engineering**
+
+* SQL (advanced queries, performance tuning)
+* dbt (transformations, modeling)
+* DuckDB (fast analytics workflows)
+* PostgreSQL (production systems)
+
+**Data & BI**
+
+* Power BI, Tableau
+* Streamlit (interactive data apps)
+
+**Workflow**
+
+* Git, GitHub, VS Code
+* Linux, Shell scripting
+* API testing, QA
 
 ---
 
-## 🧩 Current Focus
+## 🧩 What I’m Building
 
-- Becoming a **top-tier Analytics Engineer**
-- Building production-grade **data pipelines with dbt + DuckDB**
-- Scaling fullstack systems with clean architecture
-- Creating real-world projects that solve actual business problems
-
----
-
-## 📈 Selected Projects (Coming Soon / In Progress)
-
-- Event Ticketing + Payments System (React + Django)
-- End-to-End Data Pipeline (DuckDB + dbt + dashboards)
-- Delivery Platform MVP (multi-role system: customer, rider, admin)
+* 🧾 Event Ticketing + Payments System (React + Django)
+* 🚚 Delivery Platform (multi-role: customer, rider, admin)
+* 📊 End-to-End Data Pipelines (DuckDB + dbt + dashboards)
+* ⚡ Internal tools & dashboards for real-world use
 
 ---
 
-## 🤝 Open to Collaborate On
+## 🎯 Current Focus
 
-- Fullstack applications
-- Data engineering / analytics projects
-- Startup MVP builds
-- Systems that require both **product + data thinking**
+* Becoming a **top-tier Analytics Engineer**
+* Building **production-grade data pipelines**
+* Writing **clean, scalable backend systems**
+* Shipping projects that actually solve problems
+
+---
+
+## 🤝 Let’s Collaborate
+
+I’m open to:
+
+* Fullstack builds (web apps, platforms, MVPs)
+* Data pipelines & analytics systems
+* Startup ideas that need execution, not just talk
 
 ---
 
 ## 📫 Reach Me
 
-- Email: kevinnoty21@gmail.com
-- LinkedIn: https://linkedin.com/in/kevin-manoti-394933233
-- GitHub: https://github.com/Manoty
+* 📧 [kevinnoty21@gmail.com](mailto:kevinnoty21@gmail.com)
+* 💼 https://linkedin.com/in/kevin-manoti-394933233
+* 🐙 https://github.com/Manoty
 
 ---
 
-## ⚡ Philosophy
+## ⚡ How I Think
 
-> Build things that work.  
-> Make them simple.  
-> Make them scale.  
-> Then make them matter.
+> Build fast.
+> Keep it simple.
+> Make it work.
+> Then make it scale.
+
+---
+
+⭐ If you like what I’m building, feel free to connect or collaborate.
