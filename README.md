@@ -1,6 +1,7 @@
 # 👋 Hey, I’m Kevin (Manoty)
 
-🚀 Fullstack Software Engineer | 📊 Analytics Engineer
+🚀 Fullstack Software Engineer | 📊 Analytics Engineer |
+
 I build systems end-to-end — from user-facing apps to data pipelines that drive real decisions.
 
 ---
@@ -58,9 +59,9 @@ I don’t just write code — I build **complete systems**:
 
 ## 🎯 Current Focus
 
-* Becoming a **top-tier Analytics Engineer**
+* Becoming a **top-tier Data Engineer**
 * Building **production-grade data pipelines**
-* Writing **clean, scalable backend systems**
+* Writing **clean,frontend &  scalable backend systems**
 * Shipping projects that actually solve problems
 
 ---
