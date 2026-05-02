@@ -2,7 +2,7 @@
 
 🚀 Fullstack Software Engineer | 📊 Analytics Engineer |
 
-I build systems end-to-end — from user-facing apps to data pipelines that drive real decisions.
+I build end-to-end systems — from user-facing apps to data pipelines that drive real decisions.
 
 ---
 
