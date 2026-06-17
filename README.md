@@ -21,18 +21,24 @@ I don’t just write code — I build **complete systems**:
 
 **Frontend**
 
-* React, JavaScript, HTML, CSS
+* Languages: JavaScript, TypeScript, HTML5, CSS3)
+* Libraries & Frameworks: React, Next.js
+* Build Tools & Tooling: Vite, Git, npm/yarn
 
-**Backend**
+**Backend & Architecture**
 
-* Python (Django), Node.js, Golang
-* REST APIs, authentication, integrations
+* Languages: Python, Node.js, Go (Golang)
+* Frameworks: Django, Flask, Express.js
+* Asynchronous Processing: Celery, Redis (Message Brokering & Caching)
+* API Design: RESTful APIs, System Integrations, Authentication (JWT, OAuth)
 
-**Data Engineering**
 
-* SQL (advanced queries, performance tuning)
-* dbt (transformations, modeling)
-* DuckDB (fast analytics workflows)
+
+**Data Engineering & Analytics**
+
+* Databases: PostgreSQL (Production Systems), DuckDB (OLAP / Fast Analytics)
+* Data Pipelines: dbt (Modeling & Transformations), SQL (Advanced Queries & Performance Tuning)
+* Data Apps & BI: Streamlit, Power BI, Tableau
 * PostgreSQL (production systems)
 
 **Data & BI**
@@ -40,11 +46,11 @@ I don’t just write code — I build **complete systems**:
 * Power BI, Tableau
 * Streamlit (interactive data apps)
 
-**Workflow**
+**DevOps & Workflow**
 
-* Git, GitHub, VS Code
-* Linux, Shell scripting
-* API testing, QA
+* Containerization: Docker
+* Environment & Automation: Linux, Shell Scripting
+* Tools & QA: Git, GitHub, API Testing, VS Code, Pycharm
 
 ---
 
